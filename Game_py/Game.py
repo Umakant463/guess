@@ -14,7 +14,7 @@ while a != x:
 	a = int(input("Enter a value = "))
 if a == x:
 	print("=================================CONGRATULATIONS YOU HAVE WON==========================")
-	print("ATTEMPTS = =", i)
+	print("ATTEMPTS =", i)
 
 	choice = input("CONTINUE TO NEXT LEVEL  : Y/N :- ")
 	if choice == 'y':
