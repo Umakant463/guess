@@ -15,6 +15,6 @@ while a != x:
 	a = int(input("Enter a value = "))
 if a == x:
 	print("=================================CONGRATULATIONS YOU  HAVE WON LEVEL 3 ==========================")
-	print("ATTEMPTS = ", i)
+	print("ATTEMPTS =", i)
 else :
 	print("THANK YOU FOR PLAYING !!!")
